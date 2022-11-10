@@ -1,6 +1,10 @@
 # Dice-game 🎲
 
-A randomized game that allows you to make decisions on the go. Just assign a value to Player 1 and opposing value to Player 2, essentially like a coin toss and determine which player wins!
+<img alt="guy throwing dice" src="https://images.unsplash.com/photo-1510778670743-06254c768dad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1938&q=80" width="300"/>
+
+A randomized game that allows you to make decisions on the go. 
+
+Just assign a value to Player 1 and opposing value to Player 2, essentially like a coin toss and determine which player wins by refreshing the page!
 
 # About
 
