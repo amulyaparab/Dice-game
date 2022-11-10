@@ -7,4 +7,4 @@ A randomized game that allows you to make decisions on the go. Just assign a val
 - This app was created using HTML5, CSS3 and vanillaJS.
 - It uses the function Math.random() to assign a random value to both the dice.🎲
 - It then compares the random value to display the higher value as the winner.👑
-- Trust this app to settle arguments or make tough decisions for you! Enjoy! 🥳🥳
+- Trust this app to settle arguments or make tough decisions for you! Enjoy! 🥳
